@@ -1,3 +1,4 @@
+Hex!
 ===================
 **HEX**  is a strategy board game for two players played on a hexagonal grid, theoretically of any size and several possible shapes, but traditionally as an 11×11 rhombus. 
 -------------------
